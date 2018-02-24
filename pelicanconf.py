@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Abelardo Vieira Mota'
-SITENAME = 'Minhas ideias'
+SITENAME = 'Ideias'
 SITEURL = 'http://abevieiramota.com.br'
 
 PATH = 'content'
